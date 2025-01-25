@@ -22,12 +22,6 @@
 
 ---
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Icobart&color=blue&style=flat-square)
-
----
-
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Icobart&theme=radical)
